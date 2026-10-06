@@ -1,2 +1,2 @@
-# Teste-tecnico-Teste-tecnico-QA-Junior---Verzel
-Teste técnico com automação de teste em  Playwright e testes manuais Gherkin
+
+Teste técnico com automação de teste em Playwright e testes manuais Gherkin
